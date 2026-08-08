@@ -1,0 +1,7 @@
+Attack Class,Total Occurrences,Detected (TP),Missed Attacks (FN),False Alarms (FP),Miss Rate (%)
+BENIGN,83348,83306,42,89,0.05
+DoS GoldenEye,2057,2042,15,9,0.73
+DoS Hulk,34569,34522,47,18,0.14
+DoS Slowhttptest,1046,1020,26,23,2.49
+DoS slowloris,1077,1065,12,3,1.11
+Heartbleed,2,2,0,0,0.0

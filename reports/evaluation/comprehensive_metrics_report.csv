@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,Precision,Recall,F1 Score,ROC AUC,PR AUC,MCC,Cohen Kappa,Inference Time (s)
+Best Baseline Model,0.9988,0.9925,0.9949,0.9925,0.9937,0.996,0.9889,0.9974,0.9974,0.074

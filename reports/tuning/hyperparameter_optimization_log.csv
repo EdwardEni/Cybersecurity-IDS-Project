@@ -1,0 +1,2 @@
+colsample_bytree,learning_rate,max_depth,n_estimators,subsample,Final_Macro_F1,Total_Tuning_Time_Minutes
+0.8,0.1,9,100,0.8,0.9967990590403996,10.927922411759694

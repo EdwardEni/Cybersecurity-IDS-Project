@@ -1,0 +1,21 @@
+,PC1
+Flow IAT Std,0.37272155
+Flow Duration,0.36719143
+Fwd IAT Mean,0.33100894
+Packet Length Mean,0.3200497
+Bwd Packet Length Max,0.3198648
+Flow IAT Mean,0.3112656
+Packet Length Variance,0.296553
+Bwd IAT Max,0.27683267
+Bwd IAT Total,0.2564388
+Fwd Packet Length Max,0.15316343
+Fwd IAT Min,0.13796033
+Total Length of Fwd Packets,0.09643664
+Total Fwd Packets,0.0928984
+Packet_Balance,0.08315113
+Flow Packets/s,0.07953538
+Bwd Packets/s,0.075673655
+Flow IAT Min,0.05516894
+Init_Win_bytes_backward,0.040662773
+Flow Bytes/s,0.024233734
+Init_Win_bytes_forward,0.004448403

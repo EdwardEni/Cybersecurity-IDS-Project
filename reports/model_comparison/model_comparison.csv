@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,ROC AUC,Train Time (s),Inference Time (s)
+XGBoost,0.9996,0.996,0.9976,0.9968,1.0,,3.9521

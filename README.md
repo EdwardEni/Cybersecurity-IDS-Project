@@ -15,7 +15,8 @@ minimizing false alarms and missed attacks.
 
 Dataset:
 CICIDS2017 Network Intrusion Detection Dataset
-
+The dataset too large to upload to github, it can be downloaded ==> 
+https://drive.google.com/file/d/1_pmgH3dvpaJ2G5SJuskT5a7RTpALuxeX/view?usp=drive_link
 The dataset contains benign traffic and multiple cyberattack categories,
 including DoS, DDoS, PortScan, Web Attacks, Botnet, Brute Force,
 Heartbleed, and Infiltration.
